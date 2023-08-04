@@ -3,6 +3,6 @@
 
 #include <string>
 
-std::string getAPIData();
+std::string exchange_api();
 
 #endif // EXCHANGE_API_H

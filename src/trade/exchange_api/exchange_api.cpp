@@ -9,7 +9,7 @@ size_t WriteCallback(void* contents, size_t size, size_t nmemb, std::string* out
     return total_size;
 }
 
-std::string getAPIData() {
+std::string exchange_api() {
     CURL* curl;
     CURLcode res;
     std::string readBuffer;
