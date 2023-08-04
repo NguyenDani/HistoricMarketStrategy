@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    "\\src"
+    "",
+    "\\src",
+    "\\src\\trade",
+    "\\src\\trade\\exchange_api"
   ],
+  "SelectedNode": "\\src\\trade\\exchange_api\\exchange_api.cpp",
   "PreviewInSolutionExplorer": false
 }
